@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28922.388
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Social-Manager", "Social-Manager\Social-Manager.csproj", "{0F14074A-F59A-4E20-95DA-0A48C47A8ABF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F14074A-F59A-4E20-95DA-0A48C47A8ABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F14074A-F59A-4E20-95DA-0A48C47A8ABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F14074A-F59A-4E20-95DA-0A48C47A8ABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F14074A-F59A-4E20-95DA-0A48C47A8ABF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E7928CA-5A7B-44A6-B951-BB6929B8EAE5}
+	EndGlobalSection
+EndGlobal
