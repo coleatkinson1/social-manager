@@ -1,5 +1,5 @@
 # social-manager
-My attempt to clone https://meetfranz.com/
+My attempt to clone [Franz](https://meetfranz.com/)
 Currently a work in progress
 
 ## Uses [CefSharp](https://github.com/cefsharp/CefSharp)
